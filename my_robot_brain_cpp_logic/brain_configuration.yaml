@@ -1,0 +1,3 @@
+n_motors: 3
+net_function_name: 'net_function_set_all_motors_to_2'
+debug_timeslowdown_factor: 200
