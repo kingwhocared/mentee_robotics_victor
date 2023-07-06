@@ -37,3 +37,4 @@
 
 4). Divide the c++ code into multiple files, instead of having all of the code in a single file.
 
+5). Make the random number (for the noise) generation faster. It is ran 250 times a second, so thats quite a lot. 
