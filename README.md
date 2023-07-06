@@ -37,4 +37,8 @@
 
 4). Divide the c++ code into multiple files, instead of having all of the code in a single file.
 
-5). Make the random number (for the noise) generation faster. It is ran 250 times a second, so thats quite a lot. 
+5). Make the random number (for the noise) generation faster. It is ran 250 times a second, so thats quite a lot.
+
+6). Remove commented out printing statements (I am not 100% done with the project and I might need them later).
+
+7). Have better Git commit/branching/commenting standards and discipline.
