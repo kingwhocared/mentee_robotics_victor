@@ -1,6 +1,8 @@
 # Victor Mentee Robotics project
 
-## run instruction:
+## Code is in the following two files: "my_robot_brain_cpp_logic/src/main.cpp", "main.py"
+
+## Run instruction:
 1). run "pip install ./my_robot_brain_cpp_logic"
 
 2). execute main.py with path to configuration yaml (e.g: "python main.py ./brain_configuration.yaml")
