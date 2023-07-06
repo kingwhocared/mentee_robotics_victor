@@ -3,7 +3,7 @@ import yaml
 import sys
 
 if len(sys.argv) < 2:
-    path_to_yaml = "./my_robot_brain_cpp_logic/brain_configuration.yaml"
+    path_to_yaml = "./brain_configuration.yaml"
 else:
     path_to_yaml = sys.argv[1]
 
