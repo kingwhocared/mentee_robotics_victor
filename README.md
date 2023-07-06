@@ -26,3 +26,14 @@
 [Position] - 2.41955, 2.42106, 2.42172
 
 "
+
+# Things I could have done better, but skipped due to time constraints preferences:
+
+1). Object oriented implementation in c++ (have a single brain class with methods, instead of functions.)
+
+2). Better variable naming and conventions.
+
+3). Have the python main.py install the c++ file automaticly. 
+
+4). Divide the c++ code into multiple files, instead of having all of the code in a single file.
+
