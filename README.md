@@ -32,7 +32,7 @@ The mechanics I invented are as follows:
 n_spider_legs: int, min 4 and max 10.
 
 net_function_name: either "net_function_PID_try_to_maintain_distance_to_knee", which implments a PID control logic,
-or "net_function_PID_try_to_maintain_distance_to_knee" which keeps the leg muscles frozen.
+or "net_function_accept_cruel_fate_and_do_nothing" which keeps the leg muscles frozen.
 
 debug_timeslowdown_factor: int, the time will move that much slower (1 for realtime).
 
