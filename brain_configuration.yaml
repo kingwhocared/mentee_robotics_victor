@@ -1,3 +1,8 @@
-n_motors: 3
-net_function_name: 'net_function_set_all_motors_to_2'
-debug_timeslowdown_factor: 200
+n_spider_legs: 6
+net_function_name: 'net_function_PID_try_to_maintain_distance_to_knee'
+debug_timeslowdown_factor: 100
+position_noise_factor: 2
+max_stable_foot_distance_from_knee: 6
+miliseconds_to_place_foot_back_below_knee: 20
+tau_p: 0.025
+tau_d: 0.05
